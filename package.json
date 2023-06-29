@@ -1,0 +1,18 @@
+{
+  "name": "doxa-clicker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@supabase/supabase-js": "^2.24.0",
+    "dotenv": "^16.1.4",
+    "nodemon": "^2.0.22",
+    "puppeteer": "^20.3.0"
+  }
+}
